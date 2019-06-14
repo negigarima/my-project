@@ -1,7 +1,0 @@
-Hi , my name is garima.
-now i have changed the file.
-this is practice session
-
-today i am using tortoise git
-
-using tortoise git also to create pull request
