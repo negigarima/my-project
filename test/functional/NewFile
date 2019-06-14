@@ -1,0 +1,17 @@
+var assert = require('chai').assert
+describe('first test',function()
+{
+it('test case',function()
+{
+
+var array1=['dog','cat','cow'] 
+,array2=['dog','dog','cow'] ;
+
+var i=0;
+for(i=0; i< array1.length ; i++){
+    assert.equal(array1[i],array2[i],"result true:arrays are not equal");
+}
+
+
+});
+});
